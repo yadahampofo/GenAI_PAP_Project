@@ -1,3 +1,4 @@
+#Open AI Key Must be inserted prior to running code 
 
 import time
 from openai import OpenAI
