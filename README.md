@@ -1,7 +1,7 @@
 # Mutilingual Persuasive Adversarial Prompting Documentation
 # PROJECT OVERVIEW
 
-This project buildings upong the paper **How Johnny Can Persuade LLMs to Jailbreak Them:
+This project buildings upon the paper **How Johnny Can Persuade LLMs to Jailbreak Them:
 Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs** by Incorporating a multilingual evaluation to see the sucessrates of Persuasive Adversarial Prompting across different languages. 
 
 # MOTIVATION
