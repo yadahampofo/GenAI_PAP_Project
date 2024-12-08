@@ -10,12 +10,16 @@ Due to the widespread use of LLM across the globe ensuring that LLMs are safety 
 
 This project aims to bridge the gap in knowlege and explore adversarial sucess rates across three languages (French, English and Korean.)
 
-# TRANSLATOR API USED IN PROJECT
-The DeepL API provides programmatic access to DeepL’s machine translation technology, making it possible to bring high quality translation capabilities directly to your websites and applications
-- Documentation about the Translator API can be read below:
-- https://developers.deepl.com/docs 
+# TRANSLATOR TOOL USED IN PROJECT
+The deep-translator python tool allowed for all translations to occur in a quick and easy way.
+- Documentation about the deep-translator can be read below:
+- https://deep-translator.readthedocs.io/en/latest/usage.html
+
+# LOCAL LARGE LANGUAGE MODEL (LLM) INTERFACE USED IN PROJECT
+Ollama is a tool that allows users to run large language models (LLMs) on their local computer. 
+- Documentation about Ollama LLM interface can be read below:
+- https://python.langchain.com/docs/integrations/llms/ollama/#usage 
 
 #  Notes & Limitations
 <br /> Created using code from https://github.com/CHATS-lab/persuasive_jailbreaker
-<br /> Tech stack used: Python <br />
-test
+<br /> Tech stack used: Python, JupyterNotebook <br />
