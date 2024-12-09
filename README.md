@@ -21,10 +21,10 @@ Ollama is a tool that allows users to run large language models (LLMs) on their 
 - https://python.langchain.com/docs/integrations/llms/ollama/#usage 
 
 #  Notes & Limitations
-The Project Presents an Empirical Low Cost and Low resource appropriate methodology for evaluating Multilingual Jailbreaking across Languages using the String Matching Method.
--We did not perform Iterative Probe on the PAP Prompts Generated
--We were not able to compare jailbreaking results for each language across Model Sizes 
--String Matching refusal phrases may not cover all potential rejection scenarios
+The Project Presents an Empirical Low Cost and Low resource appropriate methodology for evaluating Multilingual Jailbreaking across Languages using the String Matching Method. However, there are limitations in our Methodology.
+- We did not perform Iterative Probe on the PAP Prompts Generated
+- We were not able to compare jailbreaking results for each language across Model Sizes 
+- String Matching refusal phrases may not cover all potential rejection scenarios
 
 
 <br /> Created using code from https://github.com/CHATS-lab/persuasive_jailbreaker
